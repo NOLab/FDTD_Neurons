@@ -8,3 +8,6 @@ MYELIN143: myelin, (dielectric n=1.43)
 EXTRACELL139_NL:chi3, 1.9 e-5
 Axon137_NL:chi3 1.7e-5
 MYELIN143_NL: chi3, 2.5e-5
+
+The side of the neuro, which is made of two cylinders can easily be changed (line 150-230)
+The x-scan is parametrized in the main loop, defined line 68-80
