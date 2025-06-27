@@ -1,3 +1,3 @@
 # FDTD_Neurons
 
-Scipts and matlab codes used to generate the simulations data in the article Multiscale Characterization of Myelin Distribution with Polarized THG Microscopy
+Lumerical Scripts and Matlab codes used to generate the simulations data in the article "Multiscale characterization of myelin distribution with polarized THG microscopy"
