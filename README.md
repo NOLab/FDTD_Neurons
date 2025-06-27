@@ -3,6 +3,8 @@
 Lumerical Scripts and Matlab codes used to generate the simulations data in the article "Multiscale characterization of myelin distribution with polarized THG microscopy"
 
 How to run the FDTD simulations:
+
+
 1 - Download and install FDTD (ANSYS). Free one-month demo licenses are available from ANSYS.
 
 
