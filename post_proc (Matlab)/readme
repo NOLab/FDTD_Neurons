@@ -1,1 +1,2 @@
-matlab scripts used to export the THG signal as a function of the position of the neuron computed using FDTD
+matlab scripts used to export the THG signal as a function of the position of the neuron computed using FDTD.
+The script requires as input the location of the folders with the FDTD simulation for horizontal and vertical polarizations, and outputs both THG signals and modulation for this geometry
