@@ -8,7 +8,7 @@ How to run the FDTD simulations:
 1 - Download and install FDTD (ANSYS). Free one-month demo licenses are available from ANSYS.
 
 
-2 - Import the necessary materials into the material's database (using the provided material file, or inputing manually using the provided parameters)
+2 - Import the necessary materials into the material's database (using the provided material file (.mdf file in the FDTD simulation folder), or inputing manually using the provided parameters)
 
 
 3 - run the provuided .lsf scripts, corresponding to the translation of a neuron of a given geometry along thre x-axis, for two orthogonal polarizations. The .lsf script require the manual creation of a new folder per simulation, where all the simulation results will be stored 
